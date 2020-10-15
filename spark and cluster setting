@@ -6,5 +6,8 @@ https://phoenixnap.com/kb/install-spark-on-ubuntu
 here is JAVA_HOME path:
 https://chenhh.gitbooks.io/parallel_processing/content/apache_spark/setup.html
 
+anaconda install and path,pyspark ipython setting
+http://pythonsparkhadoop.blogspot.com/2016/09/9-ipython-notebook-python-spark.html
+
 cluster spark setting:
 https://medium.com/@jootorres_11979/how-to-install-and-set-up-an-apache-spark-cluster-on-hadoop-18-04-b4d70650ed42
